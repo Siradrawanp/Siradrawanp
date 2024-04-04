@@ -7,6 +7,8 @@
 #### About me
 
 - 🔭 I’m currently working as software developer
+- :coffee: I like coffee
+- :video_game: Trying to learn game development
 
 #### Techs
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
