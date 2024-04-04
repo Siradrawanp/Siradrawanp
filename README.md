@@ -4,6 +4,10 @@
 
 </div>
 
+#### About me
+
+- 🔭 I’m currently working as software developer
+
 #### Techs
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -18,6 +22,13 @@
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+##
+<div style="display: flex; justify-content: space-between;">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Siradrawanp" alt="Anurag's GitHub stats">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siradrawanp&layout=compact" alt="Top Languages">
+</div>
+
 
 <!--
 **Siradrawanp/Siradrawanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
